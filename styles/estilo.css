@@ -1,0 +1,17 @@
+body{
+	background-color: #DBE9F4;
+	text-align: center;
+}
+table,th,td{
+	border: 1px solid black;
+	text-align: center;
+
+
+}
+h1,h2,th{
+	font-family: 'Akaya Telivigala', cursive;
+}
+td{
+	text-align: center;
+}
+<th rowspan="2">Telephone:</th>
